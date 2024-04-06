@@ -24,8 +24,11 @@ header{
    text-decoration: none;
    width: 60px;
    padding: 10px;
+}
    
-
+h2 a{
+    color: white;
+    text-decoration: none;
 }
 
 .projects{
